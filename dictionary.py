@@ -1,7 +1,7 @@
 # Dictionary consisting of morse code of alphabates,numbers and some symbols
 MORSE_CODE_DICT = { 
                     'A':'⚍', 
-                    'B':'-...', 
+                    'B':'𝌓', 
                     'C':'𝌐', 
                     'D':'☶', 
                     'E':'⚋', 
