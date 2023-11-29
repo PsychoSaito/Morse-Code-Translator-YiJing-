@@ -1,16 +1,16 @@
-# Morse-Code-Translator
+# Morse-Code-Translator-YiJing version
 
 ![](ScreenShots/start.png)
 
-A simple tool which can easily convert your plain text having alphabates from A to Z, numbers from 0 to 9 and some special symbols into a encrypted morse code format. Also it can convert your morse code into plain text.
+A simple tool which can easily convert your plain text having alphabates from A to Z, numbers from 0 to 9 and some special symbols into a encrypted YiJing format.
 
-<b>MORSE CODE</b>
+<b>YiJing</b>
 
-Morse code is a method of converting plain text into a series of on-off tones, lights or clicks or some dots & dashes format text which can be understood only by a skilled listener or observer. It was named after the inventor of telegraph Samuel F.B Morse.
+The YiJing Hexagrams are ancient Chinese symbols used for divination. Each hexagram consists of lines, solid or broken, forming unique patterns with associated meanings. They were consulted for answers on various matters in ancient China. 
 
-<b>ALGORITHM FOR MORSE CODE TRANSLATOR</b>
+<b>YiJing used</b>
 
-The algorithm for morse code translator is very simple. In this we have convert each alphabet into its corresponding  dot & dashes or only with dot or dashes in some cases and vice-versa.
+The main YiJing hexagram is actually 6 lines, but for simplicity and consistency with morsecode, other ones such as BaGua, TaiXuanJing, mono & di YiJing was used instead.
 
 <b>MODULES USED</b>
 
